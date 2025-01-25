@@ -1,4 +1,5 @@
 Let Him Cook è un progetto realizzato da Raffaele Romano, Gennaro Ferrentino e Donato Bassolino. Questo sito innovativo consente di calcolare una dieta personalizzata basata sulle preferenze alimentari degli utenti, offrendo un'interfaccia semplice e intuitiva per creare piani alimentari settimanali.
+Nella cartella SampleFolder, troverai tutti i file necessari all'avvio del sito.
 
 Come aprire e utilizzare il progetto:
 Per avviare il sito, segui questi passaggi:
